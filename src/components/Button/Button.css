@@ -1,0 +1,15 @@
+.btn {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #505050;
+    color: white;
+}
+
+.btn:disabled {
+    cursor: default;
+}
